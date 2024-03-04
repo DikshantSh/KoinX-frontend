@@ -1,0 +1,17 @@
+.cryptocurrency-heading  {
+    margin: 1.074rem 3.5rem;
+    display: flex;
+    flex-direction: row;
+}
+.cryptocurrency-heading-1 {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Inter', sans-serif;
+    color: #3E5765;
+}
+.cryptocurrency-heading-2 {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+    color: #0F1629;
+}
